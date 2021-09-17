@@ -1,5 +1,7 @@
 ## Hacking the Netgear R6020
 
+CVE Link: <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41383>
+
 ### 1. Getting the Firmware
 
 Firmware for this router can be found at <https://www.netgear.com/support/product/R6020.aspx#download>
