@@ -45,9 +45,10 @@ j-o-e-l-s@machine:~/squashfs-root$ find -name "*.cgi*"
 ```
 
 Setup.cgi will be the main file of interest.
+
 ***
  
-### 4. Finding a Vulerability in the Web App
+### 4. Finding a Vulnerability in the Web App
 There are several places for the user to enter input.
 
 ![image](https://user-images.githubusercontent.com/90354476/133454942-524edbd5-579a-4183-838e-e250f20abc5f.png)
